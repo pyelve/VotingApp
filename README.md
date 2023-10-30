@@ -73,8 +73,6 @@ User can vote the Candidate, and Admin has the permission to see the vote detail
 -  Note: In Url put Port according to your application.properties file.
  -  Application will get Open.
 
- ### Try Javascript Version 
-url: https://swapnilbamble1438.github.io/VotingApplication/
 
 
 ### Some Screenshots of this Project:
@@ -96,6 +94,6 @@ url: https://swapnilbamble1438.github.io/VotingApplication/
 
 
 
-### Project Creator: Swapnil Bamble
+
 
 
