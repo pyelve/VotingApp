@@ -17,32 +17,6 @@ User can vote the Candidate, and Admin has the permission to see the vote detail
 - Eclipse EE or Spring Tool Suite
 - MySQL
 
-### Steps To Import And Run The Project in Eclipse EE
-- In Eclipse or Spring Tool Suite
-- Click on File
-- Select Import
-- Select Projects from Git(with smart import) -> Next
-- Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
-  -> Next
--  Now in Local Destination
-
--  proceed -> Next
-
-            Now only select VotingApp\VotingApp
-            -> Finish
-   
--  If everything goes right Project will get successfully imported
--  Now wait for few seconds for getting things properly loaded
-
--  Now open Project > src/main/resources > open application.properties file,
-   inside this file look for
-   
-   spring.datasource.url=jdbc:mysql://localhost:3306/springbootnew?serverTimezone=UTC
-
-   here "springbootnew" is the name of the database.
-   
-     so
 
    ## create database name "springbootnew" in MySQL.
 
